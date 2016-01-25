@@ -1,0 +1,10 @@
+{
+    "name": "react-with-tap-event-plugin",
+    "description": "React with tap event plugin",
+    "repos": "https://github.com/2betop/placeholder.git",
+    "main": "react-with-tap.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.14.6"
+}
